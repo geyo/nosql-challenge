@@ -1,4 +1,4 @@
-# Use UK Food Standards Agency Data To Determine Best Clickbait Articles
+# Use UK Food Standards Agency Data To Determine Magazine Article Topics
 
 By Grace Yoo
 
@@ -24,7 +24,7 @@ To see the code, access the [Preprocessing Jupyter Notebook](https://github.com/
 
 ### Exploratory Analysis
 
-Next we conduct exploratory analysis to answer the following questions: 
+Next we conduct exploratory analysis to answer the following questions that the magazine editors want answered: 
 
 1. Which establishments have a hygiene score equal to 20?
 
